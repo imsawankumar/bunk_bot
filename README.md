@@ -1,11 +1,4 @@
-<h2 align = 'center'>THE BUNK BOT</h2>
 
-[![HitCount]()]
-![Python 3.8.5]()
-[![GitHub stars]()]
-[![GitHub forks]()]
-[![GitHub issues]()]
-[![contributions welcome]
 
 
 
@@ -27,7 +20,7 @@ Libraries used:
 1) <b>Image:</b>
 Used for image processing.
 View the documentation [here.](https://pillow.readthedocs.io/en/stable/)
-
+pl
 2) <b>WinSound:</b>
 Can be used for playing a pre-recorded voice note of yourself saying "present". In this project, it has been used for signalling purposes.
 View the documentation [here.](https://docs.python.org/3.1/library/winsound.html)
