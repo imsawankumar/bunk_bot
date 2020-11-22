@@ -1,14 +1,14 @@
 <h2 align = 'center'>THE BUNK BOT</h2>
 
-[![HitCount](http://hits.dwyl.com/sujaysathya/bunk_bot.svg?style=flat)](http://hits.dwyl.com/sujaysathya/bunk_bot)
-![Python 3.8.5](https://img.shields.io/badge/Python-3.8.5-blue?style=flat&logo=python)
-[![GitHub stars](https://img.shields.io/github/stars/sujaysathya/bunk_bot?color=green)](https://github.com/sujaysathya/bunk_bot/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/sujaysathya/bunk_bot?color=green)](https://github.com/sujaysathya/bunk_bot/network)
-[![GitHub issues](https://img.shields.io/github/issues/sujaysathya/bunk_bot)](https://github.com/sujaysathya/bunk_bot/issues)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?)](https://github.com/sujaysathya/bunk_bot/issues)
+[![HitCount]()]
+![Python 3.8.5]()
+[![GitHub stars]()]
+[![GitHub forks]()]
+[![GitHub issues]()]
+[![contributions welcome]
 
 
-Watch our YouTube tutorial on how to use this [here!](https://www.youtube.com/watch?v=fKa-_8R9auM)
+
 <p>The <b><i>Bunk Bot</i></b> is built on Python and its main purpose is to attend your online meetings/classes <i>for you</i>.
  
 This bot gets the meeting ID of your meeting from Google Docs (note: your friend can upload this for you if you can't) and opens Google Meet and logs in on your behalf.
